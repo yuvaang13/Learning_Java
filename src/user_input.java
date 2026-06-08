@@ -20,7 +20,7 @@ public class user_input {
 
         String smartx;
 
-        if (smart == false) {//the purpose of the if statement is to make the language sound normal in the output
+        if (smart == false) {//the purpose of the if statement is to make the language sound normal in the output (if statements are somewhat similar here)
             smartx = "not";
         } else {
             smartx = "";
