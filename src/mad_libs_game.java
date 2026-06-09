@@ -24,5 +24,7 @@ public class mad_libs_game {
         System.out.println("I went to a really" + adj2 + "restaraunt yesterday");
         System.out.println("I" + verb1 + "with my friends");
         System.out.println("I bought a new" + noun2 + "today, and I'm really excited");
+
+        scanner.close();
     }
 }
