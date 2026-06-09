@@ -13,5 +13,7 @@ public class area_of_rectangle_w_user_input {
         Double width = scanner.nextDouble();
         System.out.println("the area of your rectangle is " + width*length);
 
+        scanner.close();
+
     }
 }
