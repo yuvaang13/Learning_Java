@@ -21,3 +21,4 @@ public class arithmetic_operators {
         System.out.println(c);//there we go
     }
 }
+//ORDER OF OPERATIONS IS STILL APPLICABLE
